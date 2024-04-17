@@ -1,0 +1,10 @@
+servers:
+  - address: localhost
+    port: 8081
+    weight: 1
+  - address: localhost
+    port: 8082
+    weight: 2
+  - address: localhost
+    port: 8083
+    weight: 3
