@@ -38,7 +38,7 @@ Install python
 ## 4. Usage
 ### 3.1. Build main.go
 ```bash
-go build -o main main.go
+go build main.go
 ```
 
 ### 3.2. Run main.go
